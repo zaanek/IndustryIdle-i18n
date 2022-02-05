@@ -757,7 +757,7 @@ export const PL = {
     SaveAndExit: "Zapisz i wyjdź z gry",
     SaveAndExitDesc:
         "Zapisz i wyjdź z gry. Jest to dostępne tylko w wersji Steam i działa tak samo jak przycisk zamykania na pasku okna",
-    AutoSellResourceWarningShortLabel: "💡Sprzedaż samochodów",
+    AutoSellResourceWarningShortLabel: "💡Sprzedaż automatyczna",
     AutoSellResourceWarningDesc:
         "Automatycznie sprzedajesz ten surowiec, nie możesz tutaj wykorzystać kwoty przechowywanej w Trade Center",
     PlayerTradeLocalPrice: "Cena lokalna: %{price}",
